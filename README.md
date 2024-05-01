@@ -1,16 +1,34 @@
-### Hi there 👋
+## Schema
 
-<!--
-**M-Schema/M-Schema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :computer: Student 
+für den Abschluss 
+**'„Staatlich geprüfte/r Betriebswirt/in“ (Bachelor Professional in Wirtschaft)'**
+(Schwerpunkt Wirtschaftsinformatik und Zusatzfach Personalwirtschaft)
+* *voraussichtlich* * im Juli 2025.
 
-Here are some ideas to get you started:
+Mitglied im **[BreakfastClub](https://github.com/WF221-BreakfastClub)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Recruiter & Office Manager** in einer Internetagentur.
+
+<br>
+
+---
+
+### :file_folder: Portfolio
+
+Dieser GitHub-Account dient nicht nur der Kollaboration, sondern soll mit der Zeit auch zu meinem kleinen IT-Portfolio werden.
+
+<br>
+
+---
+
+### :coffee: genutzte Sprachen
+
+`.html`; `.css`; `.tex`; `.php`; `.java`; `.py`
+
+<br>
+
+---
+
+Fan of [rubberducking](https://en.wikipedia.org/wiki/Rubber_duck_debugging) 
+:duck: :duck: :duck:
