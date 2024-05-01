@@ -22,5 +22,5 @@ Dieser GitHub-Account dient nicht nur der Kollaboration, sondern soll mit der Ze
 
 ---
 
-Fan of [rubberducking](https://en.wikipedia.org/wiki/Rubber_duck_debugging) <br> 
+### :duck: Fan of [rubberducking](https://en.wikipedia.org/wiki/Rubber_duck_debugging) <br> 
 :duck: :duck: :duck:
