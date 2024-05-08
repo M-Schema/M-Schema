@@ -1,26 +1,16 @@
-### :computer: Student 
-für den Abschluss 
-` „Staatlich geprüfter Betriebswirt“ (Bachelor Professional in Wirtschaft) ` <br>
-(Schwerpunkt Wirtschaftsinformatik und Zusatzfach Personalwirtschaft) <br>
-*voraussichtlich* im Juli 2025.
+### Recruiter & Office Manager
+in an internet agency.
 
-- Mitglied im **[BreakfastClub](https://github.com/WF221-BreakfastClub)**.
+### student 
+` State-certified business manager ` / ` Staatlich geprüfter Betriebswirt ` ` (Bachelor Professional) ` <br>
+major in Business Informatics / Wirtschaftsinformatik and minor in Human Resource Management / Personalwirtschaft <br>
+state examination / Staatsexamen in summer 2025.
 
-- **Recruiter & Office Manager** in einer Internetagentur.
-
----
-
-### :file_folder: Portfolio
-
-Dieser GitHub-Account dient nicht nur der Kollaboration, sondern soll mit der Zeit auch zu meinem kleinen IT-Portfolio werden.
-
----
-
-### :coffee: genutzte Sprachen
-
+### learning
 `.html` `.css` `.tex` `.php` `.java` `.py`
 
----
+<br> 
 
-### :duck: Fan of [rubberducking](https://en.wikipedia.org/wiki/Rubber_duck_debugging) <br> 
+### member of the [BreakfastClub](https://github.com/WF221-BreakfastClub) 
+fan of **[rubberducking](https://en.wikipedia.org/wiki/Rubber_duck_debugging)** 
 :duck: :duck: :duck:
