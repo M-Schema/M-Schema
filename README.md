@@ -7,7 +7,7 @@ major in Business Informatics / Wirtschaftsinformatik and minor in Human Resourc
 state examination / Staatsexamen in summer 2025.
 
 ### learning
-`.html` `.css` `.tex` `.php` `.java` `.py`
+`.html` `.css` `.tex` `.sql` `.php` `.java` `.py`
 
 <br> 
 
