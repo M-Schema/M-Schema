@@ -1,11 +1,10 @@
 ### Student 
 ` State-certified business manager ` / ` Staatlich geprüfter Betriebswirt ` ` (Bachelor Professional) ` <br>
-major in Business Informatics / Wirtschaftsinformatik and minor in Human Resource Management / Personalwirtschaft <br>
-state examination / Staatsexamen in summer 2025.
+major in Business Informatics (Wirtschaftsinformatik) and minor in Human Resource Management (Personalwirtschaft) <br>
+state examination (Staatsexamen) in spring 2025.
 
 ### learning
 `.html` `.css` `.tex` `.sql` `.php` `.java` `.py`
-
 <br> 
 
 ### member of the [BreakfastClub](https://github.com/WF221-BreakfastClub) 
